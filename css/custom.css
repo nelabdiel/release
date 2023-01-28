@@ -182,7 +182,7 @@ label {
 
 .event-tab .tab-content {
     margin-top: 60px;
-    margin-left: 35%
+    margin-left: 0%
 }
 
 .event-tab .tab-content .tab-pane {
@@ -335,9 +335,10 @@ label {
 }
 
 .container { 
-    width: 450px;
-  height: 100px;
+    width: 150px;
+  height: 70px;
   position: relative;
+    
 }
 
 
